@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Clone Page
- * Plugin URI: 
+ * Plugin URI: https://github.com/paulmp-git/ClonePage
  * Description: Lightweight plugin to clone/duplicate pages with one click. Adds a "Clone" link to the page row actions.
  * Version: 1.0.0
  * Author: Paul Pichugin
